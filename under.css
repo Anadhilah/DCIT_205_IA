@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: darkgrey;
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.5)50%,rgba(4,9,30,0.5)50%),url(images/PHOTO-2019-03-04-14-45-13\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+nav {
+    display: flex;
+   padding: 2% 6%;
+   justify-content: space-between;
+   align-items: center; 
+}
+nav img {
+    width: 150px;
+
+}
+.nav-links{
+    flex: 1;
+    text-align: right;
+
+}
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+.nav-links ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-links ul li a::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #eca60e;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+    
+
+}
+.text-box{
+    margin-left: 300px;
+}
+.text-box h1{
+    font-size: 62px;
+
+}
+.text-box p{
+    margin: 10px 0 40px;
+    font-size: 14px;
+    color: wheat;
+}
+.click{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    margin: 50px;
+}
+.click:hover{
+    border: 1px solid #171242;
+    background: #140f31;
+    transition: 1s;
+
+}
+.big {
+    text-align: center;
+    
+    background-color: rgb(219, 219, 219);
+}
+.short {
+    background-color: rgba(126, 98, 38, 0.795);
+    padding: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    color: white;
+    margin-bottom: 30;
+}
+.back{
+    color: #140f31;
+}
+
+
+.logo {
+    height: 100px;
+    width: 70px;
+
+
+
+
+}
+.nav-links ul li :hover::after{
+    width: 100%;
+}
+.dive{
+    margin-left: 200px;
+    margin-right: 200px;
+    height:1000px;
+   
+}
+.divide{
+    display: flex;
+}
+.fun{
+    text-align: center;
+    color: #150f47;
+    margin-bottom: 20px;
+}
+.fan{
+    text-align: center;
+    color: #150f47;
+    margin-bottom: 20px;
+}
+.menu{
+    margin-left: 100px;
+}
+.vine {
+    margin-left: 200px;
+}
+.soap{
+    background-color: darkgrey;
+    text-align: center;
+    position: relative;
+}
+.can{
+    color: #150f47;
+    font-size: 50px;
+    
+}
+.hidden-content{
+    
+    margin-top: 10px;
+}
+.toggle-button{
+    cursor: pointer;
+    color: gold;
+    text-decoration: underline;
+}
+.calling {
+    display: flex;
+    background-color: #08080a;
+    text-align: left;
+    color: white;
+    height: 300px;
+    padding: 50px;
+    
+}
+.IT {
+    margin-left:200px ;
+    margin-right: 100px;
+    line-height: 1.5rem;
+}
+
+.Busy {
+    margin-left: 100px;
+    margin-right: 200px;
+    line-height: 1.5rem;
+
+}
+.Sad {
+    margin-left: 100px;
+    line-height: 1.5rem;
+
+}
+.two {
+    display: flex;
+}
+    
