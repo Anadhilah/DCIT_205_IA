@@ -3,13 +3,12 @@
     padding: 0px;
 }
 body {
-    background-color: darkgrey;
+    background-color: mintcream;
 }
-
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.5)50%,rgba(4,9,30,0.5)50%),url(images/PHOTO-2019-03-04-14-45-13\ 2.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.5)50%,rgba(4,9,30,0.5)50%),url(images/8.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -52,8 +51,28 @@ nav img {
     
 
 }
-.text-box{
-    margin-left: 300px;
+
+
+.logo {
+    height: 100px;
+    width: 70px;
+
+
+
+
+}
+.nav-links ul li :hover::after{
+    width: 100%;
+    
+}
+.text-box {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
 }
 .text-box h1{
     font-size: 62px;
@@ -82,85 +101,12 @@ nav img {
     transition: 1s;
 
 }
-.big {
-    text-align: center;
-    
-    background-color: rgb(219, 219, 219);
-}
-.short {
-    background-color: rgba(126, 98, 38, 0.795);
-    padding: 30px;
-    margin-left: 350px;
-    margin-right: 350px;
-    color: white;
-    margin-bottom: 30;
-}
-.back{
-    color: #140f31;
-}
-
-
-.logo {
-    height: 100px;
-    width: 70px;
-
-
-
-
-}
-.nav-links ul li :hover::after{
-    width: 100%;
-}
-.dive{
-    margin-left: 200px;
-    margin-right: 200px;
-    height:1000px;
-   
-}
-.divide{
-    display: flex;
-}
-.fun{
-    text-align: center;
-    color: #150f47;
-    margin-bottom: 20px;
-}
-.fan{
-    text-align: center;
-    color: #150f47;
-    margin-bottom: 20px;
-}
-.menu{
-    margin-left: 100px;
-}
-.vine {
-    margin-left: 200px;
-}
-.soap{
-    background-color: darkgrey;
-    text-align: center;
-    position: relative;
-}
-.can{
-    color: #150f47;
-    font-size: 50px;
-    
-}
-.hidden-content{
-    
-    margin-top: 10px;
-}
-.toggle-button{
-    cursor: pointer;
-    color: gold;
-    text-decoration: underline;
-}
 .calling {
     display: flex;
     background-color: #08080a;
     text-align: left;
     color: white;
-    height: 500px;
+    height: 300px;
     padding: 50px;
     
 }
@@ -181,35 +127,82 @@ nav img {
     line-height: 1.5rem;
 
 }
-.few{
-    text-align: center;
-    margin-bottom: 30px;
-    margin-top: 20px;
+.google-map{
+    width: 1000px;
+    height:500px ;
+    margin-left: 100px;
+    margin-right: 30px;
 }
-.her{
-    margin-bottom: 10px;
-}
-.opo{
- margin-left: 50px;
- background-color: white;
- margin-right: 30px;
- margin-bottom: 20px;
- border-radius: 7px;
- padding: 10px;
- 
-
-}
-.vee{
+.fine{
     display: flex;
 }
-.bye{
+.joke{
+    margin-left: 20px;
+    padding: 20px;
+    background-image: linear-gradient(rgba(4,9,30,0.5)50%,rgba(4,9,30,0.5)50%),url(images/10.jpg);
+
+}
+.joke h1{
     text-align: center;
-    margin-bottom: 30px;
-    font-size: 40px;
 }
-.com{
-    margin-left: 40px;
+.tru {
+    text-align:center;
 }
-.con{
-    margin-left: 400px;
+.sure{
+    text-align: left;
+    margin-left: 200px;
+
+}
+.rush{
+    
+    text-align: left;
+    
+   
+    
+
+
+}
+.yes{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.tin{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 10px;
+    height: 50px;
+}
+.cool{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 10px;
+    height: 50px;
+}
+.ella{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
 }

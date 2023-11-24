@@ -1,9 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logo {
+    height: 100px;
+    width: 70px;
+
+}
+
 * {
     margin: 0px;
     padding: 0px;
 }
 body {
-    background-color: darkgrey;
+    background-color: mintcream;
 }
 
 .header {
@@ -53,7 +63,7 @@ nav img {
 
 }
 .text-box{
-    margin-left: 300px;
+    margin-left: 100px;
 }
 .text-box h1{
     font-size: 62px;
@@ -80,80 +90,48 @@ nav img {
     border: 1px solid #171242;
     background: #140f31;
     transition: 1s;
-
-}
-.big {
-    text-align: center;
-    
-    background-color: rgb(219, 219, 219);
-}
-.short {
-    background-color: rgba(126, 98, 38, 0.795);
-    padding: 30px;
-    margin-left: 350px;
-    margin-right: 350px;
-    color: white;
-    margin-bottom: 30;
 }
 .back{
-    color: #140f31;
+    color: white;
+    text-align: center;
 }
-
-
-.logo {
-    height: 100px;
-    width: 70px;
-
-
-
-
+.view{
+    display: flex;
+    
 }
-.nav-links ul li :hover::after{
-    width: 100%;
+.gaa{
+    width: 700px;
+    height: 500px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-right: 10px;
 }
-.dive{
-    margin-left: 200px;
-    margin-right: 200px;
-    height:1000px;
-   
+.caa{
+    text-align: center;
+    margin-top: 25px;
 }
-.divide{
+.jaa{
+    line-height: 1.5rem;
+}
+.saa{
+    margin-bottom: 15px;
+    font-size: xx-large;
+}
+.too{
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  
+}
+.laa{
     display: flex;
 }
-.fun{
-    text-align: center;
-    color: #150f47;
-    margin-bottom: 20px;
-}
-.fan{
-    text-align: center;
-    color: #150f47;
-    margin-bottom: 20px;
-}
-.menu{
-    margin-left: 100px;
-}
-.vine {
-    margin-left: 200px;
-}
-.soap{
-    background-color: darkgrey;
-    text-align: center;
-    position: relative;
-}
-.can{
-    color: #150f47;
-    font-size: 50px;
-    
-}
-.hidden-content{
-    
-    margin-top: 10px;
-}
-.toggle-button{
-    cursor: pointer;
-    color: gold;
-    text-decoration: underline;
+.paa{
+    display: flex;
 }
 .calling {
     display: flex;
@@ -180,36 +158,4 @@ nav img {
     margin-left: 100px;
     line-height: 1.5rem;
 
-}
-.few{
-    text-align: center;
-    margin-bottom: 30px;
-    margin-top: 20px;
-}
-.her{
-    margin-bottom: 10px;
-}
-.opo{
- margin-left: 50px;
- background-color: white;
- margin-right: 30px;
- margin-bottom: 20px;
- border-radius: 7px;
- padding: 10px;
- 
-
-}
-.vee{
-    display: flex;
-}
-.bye{
-    text-align: center;
-    margin-bottom: 30px;
-    font-size: 40px;
-}
-.com{
-    margin-left: 40px;
-}
-.con{
-    margin-left: 400px;
 }
