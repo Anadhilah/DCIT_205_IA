@@ -1,0 +1,82 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #ccc;
+  
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+form{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+}
+input[type="text"],
+input[type="tel"],
+input[type="date"],
+select{
+    width: 100%;
+    padding: 2%;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+h1{
+    background-color: #f8f8f8;
+    font-size: xx-large;
+    padding-bottom: 10px;
+    text-align: center;
+}
+p{
+    background-color: #f8f8f8;
+}
+label {
+    background-color: #f8f8f8;
+}
+input{
+    background-color: #f8f8f8;
+}
+details{
+    background-color: #f8f8f8;
+}
+summary{
+    background-color: #f8f8f8;
+}
+.has{
+    display: flex;
+    background-color: #f8f8f8;
+    
+}
+.big{
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.soo{
+    line-height: 1.5rem;
+}
+.fis{
+    background-color: blue;
+    height: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px ;
+    padding-bottom: 10px;
+}
+.video{
+    width: 500px;
+    height: 100px;
+    background-color: #f8f8f8;
+}
