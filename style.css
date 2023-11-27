@@ -174,7 +174,7 @@ nav img {
     background-size: cover;
     position: relative;
     height: 800px;
-    width: 1500px;
+    width: 100%;
 }
 .Join {
     width: 90%;
@@ -200,7 +200,7 @@ nav img {
 .tired {
     
     display: flex;
-    width: 90%;
+    width: 0%;
     color: white;
     position: absolute;
     top: 60%;
@@ -256,20 +256,24 @@ nav img {
 }
 .IT {
     margin-left:200px ;
-    margin-right: 100px;
+    margin-right: 70px;
     line-height: 1.5rem;
 }
 
 .Busy {
     margin-left: 100px;
-    margin-right: 200px;
+    margin-right: 70px;
     line-height: 1.5rem;
 
 }
 .Sad {
-    margin-left: 100px;
+    margin-left: 70px; 
     line-height: 1.5rem;
 
+}
+.okay{
+    margin-top: 50px;
+    margin-left: 55px;
 }
     
 

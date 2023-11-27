@@ -131,23 +131,32 @@ nav img {
         
         
     
+ .calling {
+    display: flex;
+    background-color: #08080a;
+    text-align: left;
+    color: white;
+    
+    padding: 50px;
+    
+}
 .IT {
-        margin-left:200px ;
-        margin-right: 100px;
-        line-height: 1.5rem;
-    }
-    
-    .Busy {
-        margin-left: 100px;
-        margin-right: 200px;
-        line-height: 1.5rem;
-    
-    }
-    .Sad {
-        margin-left: 100px;
-        line-height: 1.5rem;
-    
-    }
+    margin-left:200px ;
+    margin-right: 70px;
+    line-height: 1.5rem;
+}
+
+.Busy {
+    margin-left: 100px;
+    margin-right: 70px;
+    line-height: 1.5rem;
+
+}
+.Sad {
+    margin-left: 70px; 
+    line-height: 1.5rem;
+
+}
     .bio{
         color: rgb(26, 24, 24);
         text-align: center;

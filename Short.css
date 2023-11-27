@@ -127,20 +127,19 @@ nav img {
 }
 .IT {
     margin-left:200px ;
-    margin-right: 100px;
+    margin-right: 70px;
     line-height: 1.5rem;
 }
 
 .Busy {
     margin-left: 100px;
-    margin-right: 200px;
+    margin-right: 70px;
     line-height: 1.5rem;
 
 }
 .Sad {
-    margin-left: 100px;
+    margin-left: 70px; 
     line-height: 1.5rem;
-
 }
 .back{
    margin-top: 130px;
