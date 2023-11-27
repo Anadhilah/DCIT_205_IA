@@ -34,7 +34,7 @@ npm start
  Name : Anastasia Andoh
  ID : 11015722
 
-![Home page](<Sreenshot/127.0.0.1_5500_index.html (2).png>)
+![Home page](<Sreenshot\127.0.0.1_5500_index.html (2).png>)
 ![Short course page](Sreenshot/127.0.0.1_5500_ShortCourses.html.png)
 ![Mphil course Page](Sreenshot/127.0.0.1_5500_MPhil.html.png)
 ![Complaint form](Sreenshot/127.0.0.1_5500_comForms.html.png)
