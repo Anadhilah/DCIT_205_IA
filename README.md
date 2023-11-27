@@ -34,16 +34,16 @@ npm start
  Name : Anastasia Andoh
  ID : 11015722
 
-![Home page](<127.0.0.1_5500_index.html (2).png>)
-![Short course page](127.0.0.1_5500_ShortCourses.html.png)
-![Mphil course Page](127.0.0.1_5500_MPhil.html.png)
-![Complaint form](127.0.0.1_5500_comForms.html.png)
-![PhD course page](<127.0.0.1_5500_PHD.html (2).png>)
-![Contact page](127.0.0.1_5500_contact.html.png)
-![Undergraduate Course page](127.0.0.1_5500_UnderCourses.html.png)
-![ Register Short course forms](127.0.0.1_5500_forms.html.png)
-![About page](127.0.0.1_5500_About.html.png)
-![Admissions page](127.0.0.1_5500_admissions.html.png)
+![Home page](<Sreenshot/127.0.0.1_5500_index.html (2).png>)
+![Short course page](Sreenshot/127.0.0.1_5500_ShortCourses.html.png)
+![Mphil course Page](Sreenshot/127.0.0.1_5500_MPhil.html.png)
+![Complaint form](Sreenshot/127.0.0.1_5500_comForms.html.png)
+![PhD course page](<Sreenshot/127.0.0.1_5500_PHD.html (2).png>)
+![Contact page](Sreenshot/127.0.0.1_5500_contact.html.png)
+![Undergraduate Course page](Sreenshot/127.0.0.1_5500_UnderCourses.html.png)
+![ Register Short course forms](Sreenshot/127.0.0.1_5500_forms.html.png)
+![About page](Sreenshot/127.0.0.1_5500_About.html.png)
+![Admissions page](Sreenshot/127.0.0.1_5500_admissions.html.png)
 
 # What i have learnt
 I learnt how to create webpages with interesting features such as video backgrounds and forms. It was not an easy task but i 
